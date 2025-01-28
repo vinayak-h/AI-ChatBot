@@ -1,11 +1,6 @@
 # AI ChatBot
 
-A simple chatbot built with deep learning that interacts with users and responds to questions.
-
-## Features
-- Natural language processing
-- Supports multiple conversation turns
-- Can be integrated with various APIs
+A simple chatbot built with Ollama that interacts with users and responds to questions.
 
 ## Installation
 
