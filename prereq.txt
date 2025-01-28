@@ -15,3 +15,5 @@ Turn on the Virtual environment before running the project
 
 to create the virtual environment   --->   python -m venv chatbot
 To activate the Virtual environment --->   .\chatbot\Scripts\activate
+After activating Virtual environment run this commands
+                pip install langchain langchain-ollama ollama
