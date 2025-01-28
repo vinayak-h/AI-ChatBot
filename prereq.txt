@@ -1,0 +1,17 @@
+Download and install the Ollama https://ollama.com/download
+Ollama Download Page: https://ollama.com/
+Ollama GitHub Repo: https://github.com/ollama/ollama
+
+After downloading and installing it will automatically opens the PowerShell (if not just open it manually!)
+then run this command
+        ollama run deepseek-r1:1.5b
+
+That's all
+
+
+
+
+Turn on the Virtual environment before running the project
+
+to create the virtual environment   --->   python -m venv chatbot
+To activate the Virtual environment --->   .\chatbot\Scripts\activate
